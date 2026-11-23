@@ -1,8 +1,6 @@
 # User Journey Funnel Analysis (Power BI)
 
-An interactive Power BI dashboard that tracks how users move through an e-commerce purchase journey (Visit → Product View → Add to Cart → Checkout → Purchase), shows where they drop off, and compares performance by device and marketing channel.
-
-> **AI assistance disclosure:** The written insights and recommendations in this README were drafted with AI assistance (Claude) and checked against the dashboard figures. The dashboard was built by me in Power BI Desktop.
+An interactive Power BI dashboard that tracks how users move through an e-commerce purchase journey (Visit → Product View → Add to Cart → Checkout → Purchase), shows where they drop off, and compares performance by device and marketing channe
 
 ## Project Goal
 Find out where users leave the purchase funnel and which devices and channels convert best, so the business knows where to focus its improvement effort.
